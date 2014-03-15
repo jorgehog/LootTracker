@@ -1,0 +1,5 @@
+## Title: LootTracker
+## APIVersion: 100000
+
+LootTracker.lua
+LootTracker.xml
